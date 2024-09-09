@@ -1,0 +1,659 @@
+@media (min-width: 576px) {
+
+    .container {
+        max-width: 650px;
+    }
+}
+
+@media (min-width: 768px) {
+
+    .container {
+        max-width: 850px;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 1140px
+    }
+
+}
+
+
+
+
+@media (max-width: 1300px) {
+    .lead-download-offer .single-offer a {
+        width: 100%;
+    }
+
+
+}
+
+@media (max-width: 991px) {
+    .fz16 {
+        font-size: 16px;
+    }
+
+    .fz17 {
+        font-size: 17px;
+    }
+
+    .fz18 {
+        font-size: 18px;
+    }
+
+    .fz19 {
+        font-size: 19px;
+    }
+
+    .fz20 {
+        font-size: 20px;
+    }
+
+    .fz21 {
+        font-size: 21px;
+    }
+
+    .fz22 {
+        font-size: 22px;
+    }
+
+    .fz23 {
+        font-size: 23px;
+    }
+
+    .fz24 {
+        font-size: 18px;
+    }
+
+    .fz25 {
+        font-size: 20px;
+    }
+
+    .fz26 {
+        font-size: 26px;
+    }
+
+    .fz27 {
+        font-size: 27px;
+    }
+
+    .fz28 {
+        font-size: 28px;
+    }
+
+    .fz29 {
+        font-size: 29px;
+    }
+
+    .fz30 {
+        font-size: 20px;
+    }
+
+    .fz31 {
+        font-size: 18px;
+    }
+
+    .fz32 {
+        font-size: 23px;
+    }
+
+    .fz33 {
+        font-size: 33px;
+    }
+
+    .fz34 {
+        font-size: 34px;
+    }
+
+    .fz35 {
+        font-size: 25px;
+    }
+
+    .fz36 {
+        font-size: 36px;
+    }
+
+    .fz37 {
+        font-size: 33px;
+    }
+
+    .fz38 {
+        font-size: 38px;
+    }
+
+    .fz39 {
+        font-size: 39px;
+    }
+
+    .fz40 {
+        font-size: 25px;
+    }
+
+    .fz41 {
+        font-size: 41px;
+    }
+
+    .fz42 {
+        font-size: 42px;
+    }
+
+    .fz43 {
+        font-size: 43px;
+    }
+
+    .fz44 {
+        font-size: 26px;
+    }
+
+    .fz45 {
+        font-size: 35px;
+    }
+
+    .fz46 {
+        font-size: 46px;
+    }
+
+    .fz47 {
+        font-size: 35px;
+    }
+
+    .fz48 {
+        font-size: 48px;
+    }
+
+    .fz49 {
+        font-size: 49px;
+    }
+
+    .fz50 {
+        font-size: 50px;
+    }
+
+    .fz51 {
+        font-size: 51px;
+    }
+
+    .fz52 {
+        font-size: 52px;
+    }
+
+    .fz53 {
+        font-size: 53px;
+    }
+
+    .fz54 {
+        font-size: 54px;
+    }
+
+    .fz55 {
+        font-size: 55px;
+    }
+
+    .fz56 {
+        font-size: 56px;
+    }
+
+    .fz57 {
+        font-size: 57px;
+    }
+
+    .fz58 {
+        font-size: 58px;
+    }
+
+    .fz59 {
+        font-size: 59px;
+    }
+
+    .fz60 {
+        font-size: 60px;
+    }
+
+    .mx20p {
+        margin: 0 5%;
+    }
+
+    .discount .package-recap {
+        padding: 30px 20px;
+    }
+
+    .discount .white-box img {
+        width: 50% !important;
+        margin-bottom: 30px;
+    }
+
+    .discount .package-calculation ul li {
+        font-size: 16px;
+    }
+
+    .discount .duel-text-btn h4 {
+        font-size: 22px;
+    }
+
+    .single-offer .bglightyellow {
+        padding-left: 15px;
+        padding-right: 10px;
+    }
+
+    a.round-btn,
+    a.static-btn {
+        font-size: 16px;
+        padding: 16px 40px;
+    }
+
+    .lead-download-offer .single-offer {
+        padding: 40px 20px;
+    }
+
+    .lcp-one .lcp-box {
+        margin: 15px 5px;
+        padding: 30px;
+    }
+
+    .lcp-one .lcp-box img {
+        width: 250px;
+        margin: auto;
+    }
+
+    .mrr-download a.round-btn {
+        width: 100%;
+        font-size: 18px;
+    }
+
+
+    .affiliate .video-container {
+        height: auto;
+        aspect-ratio: 16 / 9;
+        width: 100%;
+    }
+
+    .affiliate .three .video-container {
+        width: 90%;
+    }
+
+    .affiliate .video-container img {
+        height: auto;
+        aspect-ratio: 16 / 9;
+        width: 100%;
+    }
+
+    .affiliate .video-container iframe {
+        height: auto;
+        aspect-ratio: 16 / 9;
+        width: 100%;
+
+    }
+
+    .affiliate .video-container svg {
+        height: 80px;
+    }
+
+    .plr-greenbox img {
+        width: 250px;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    .fz47 {
+        font-size: 25px;
+    }
+
+    .fz45 {
+        font-size: 22px;
+    }
+
+    .fz44 {
+        font-size: 20px;
+    }
+
+    .fz40 {
+        font-size: 20px;
+    }
+
+    .fz37 {
+        font-size: 20px;
+    }
+
+    .fz34 {
+        font-size: 20px;
+    }
+
+    .fz35,
+    .fz33 {
+        font-size: 18px;
+    }
+
+    .fz31 {
+        font-size: 15px;
+    }
+
+    .fz25 {
+        font-size: 16px;
+    }
+
+    .fz24 {
+        font-size: 15px;
+    }
+
+    .fz23 {
+        font-size: 17px;
+    }
+
+    .fz20 {
+        font-size: 16px;
+    }
+
+    .fz19 {
+        font-size: 16px;
+    }
+
+    .fz30 {
+        font-size: 18px;
+    }
+
+    .fz56 {
+        font-size: 30px;
+    }
+
+    .mx20p,
+    .mx10p {
+        margin: 0;
+    }
+
+    .discount .white-box {
+        padding: 5px;
+    }
+
+    .discount .package-calculation ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    .discount .package-calculation {
+        padding: 30px 20px;
+    }
+
+    .discount .white-box img {
+        width: 100% !important;
+    }
+
+    .discount .duel-text-btn,
+    a.static-btn {
+        padding: 15px 10px;
+    }
+
+    .discount .duel-text-btn h4 {
+        font-size: 20px;
+    }
+
+    .discount .duel-text-btn h6 {
+        font-size: 14x;
+    }
+
+    .wisher img {
+        width: 60px !important;
+    }
+
+    .lead-download-offer .single-offer p,
+    .lead-download p,
+    .lcp-one .lcp-box p {
+        font-size: 16px;
+    }
+
+    .lcp-one .lcp-box svg {
+        width: 17px;
+    }
+
+    .contact img {
+        width: 80px !important;
+    }
+
+    .mrr-download p {
+        font-size: 16px;
+    }
+
+    .affiliate .white-box .para p {
+        font-size: 16px;
+    }
+
+    .affiliate .white-box .para {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .mrr-main ul {
+        margin-top: 60px;
+    }
+
+    .disclaimer p {
+        font-size: 16px;
+    }
+
+    .sss .customer,
+    .sss-package {
+        display: block;
+    }
+
+    .sss .customer div,
+    .sss-package .single-package {
+        margin: auto;
+        width: 100%;
+    }
+
+    .sss .customer p,
+    .sss-heroarea p,
+    .sss-three ul li {
+        font-size: 16px;
+    }
+
+    .sss-three h4.yellow {
+        font-size: 22px;
+    }
+
+    .sss-package .single-package {
+        margin: 15px 0;
+    }
+
+    .sss-package {
+        padding: 5px 10px;
+    }
+
+    .plr-main .plr-heroarea a {
+        margin-bottom: 20px;
+    }
+
+    .plr-one p,
+    .plr-two .customer p,
+    .plr-three .points .single-point .point-content p {
+        font-size: 18px;
+    }
+
+    .plr-one .gray-box {
+        margin-bottom: 20px;
+    }
+
+    .plr-greenbox {
+        display: block;
+    }
+
+    .plr-greenbox img {
+        margin: auto;
+    }
+
+    .plr-greenbox.black-box .content {
+        max-width: 100%;
+        margin-top: 25px;
+    }
+}
+
+@media (max-width: 575px) {
+    a.round-btn {
+        font-size: 15px;
+        padding: 16px 20px;
+    }
+
+    .affiliate .video-container svg {
+        height: 40px;
+    }
+
+    .affiliate .white-box {
+        padding: 25px 10px;
+    }
+
+    .affiliate .single-testimonial p,
+    .affiliate .letter p {
+        font-size: 16px;
+        font-family: 'PT Sans', sans-serif;
+    }
+
+    .affiliate .single-testimonial img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 15px;
+    }
+
+    .affiliate .single-testimonial {
+        margin: 20px 0;
+    }
+
+    .affiliate .banners img {
+        width: 100%;
+    }
+
+    .owner img {
+        width: 100px;
+        margin: auto;
+    }
+
+    .affiliate .banner-title {
+        font-size: 30px;
+        margin-top: 40px;
+    }
+
+    .owner .col-12 {
+        display: block;
+        margin: auto;
+        text-align: center;
+    }
+
+    .owner .icons {
+        justify-content: center;
+    }
+
+    .mrr-main .points .single-point {
+        width: 100%;
+    }
+
+    .mrr-main ul li {
+        font-size: 15px;
+    }
+
+    .blue-box {
+        padding: 15px;
+    }
+
+    .mrr-main .discount .para p {
+        font-size: 15px;
+    }
+
+    .mrr-main .discount-content>img {
+        width: 70px !important;
+    }
+
+    .mrr-main .discount-content {
+        padding: 30px 20px;
+        width: 95%;
+        margin: auto;
+    }
+
+    .mrr-main .red-box,
+    .discount-content .bonus-box {
+        padding: 15px;
+    }
+
+    .mrr-main .red-box p {
+        font-size: 14px;
+    }
+
+    .mrr-main .bonus-box p {
+        font-size: 14px;
+    }
+
+    .mrr-main .points .single-point .number {
+        height: 30px;
+        width: 30px;
+        font-size: 16px;
+        margin-right: 10px;
+    }
+
+    .mrr-main .points .single-point .point-content p,
+    .plr-white ul li,
+    .plr-white p {
+        font-size: 16px;
+    }
+
+    .plr-discount .plr-wrapper {
+        padding: 40px 10px;
+    }
+
+    .plr-white {
+        padding: 20px 15px;
+    }
+
+    .plr-white ul li img {
+        margin-top: 3px;
+    }
+
+    .sss-three .yellow-wrapper {
+        display: block;
+    }
+
+    .sss-three .yellow-wrapper div {
+        margin-top: 15px;
+    }
+
+    .sss .customer {
+        padding: 30px 15px;
+    }
+
+    .sss-heroarea .wrapper {
+        padding: 15px;
+    }
+
+    .sss-heroarea .px-4 {
+        padding: 0 !important;
+    }
+
+    .plr-one .gray-box {
+        padding: 15px;
+    }
+
+    .fitvidsignore {
+        width: 100%;
+    }
+
+    .plr-main .customer {
+        flex-direction: column;
+    }
+
+    .plr-two .customer .info,
+    .plr-two .customer .rating {
+        width: 100%;
+    }
+
+    .fitvidsignore {
+        width: 100%;
+    }
+
+    .plr-three .points .single-point {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+}
